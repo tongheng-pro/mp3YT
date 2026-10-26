@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+downloads/
+test_downloads/
+*.mp3
+*.webm
+*.m4a
+*.webp
